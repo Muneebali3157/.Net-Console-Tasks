@@ -1,0 +1,14 @@
+E:\XONFO\my works\day1\obj\Debug\net8.0\Task 1 — Console Calculator with Menu.GeneratedMSBuildEditorConfig.editorconfig
+E:\XONFO\my works\day1\obj\Debug\net8.0\Task 1 — Console Calculator with Menu.AssemblyInfoInputs.cache
+E:\XONFO\my works\day1\obj\Debug\net8.0\Task 1 — Console Calculator with Menu.AssemblyInfo.cs
+E:\XONFO\my works\day1\obj\Debug\net8.0\Task 1 — Console Calculator with Menu.csproj.CoreCompileInputs.cache
+E:\XONFO\my works\day1\bin\Debug\net8.0\Task 1 — Console Calculator with Menu.exe
+E:\XONFO\my works\day1\bin\Debug\net8.0\Task 1 — Console Calculator with Menu.deps.json
+E:\XONFO\my works\day1\bin\Debug\net8.0\Task 1 — Console Calculator with Menu.runtimeconfig.json
+E:\XONFO\my works\day1\bin\Debug\net8.0\Task 1 — Console Calculator with Menu.dll
+E:\XONFO\my works\day1\bin\Debug\net8.0\Task 1 — Console Calculator with Menu.pdb
+E:\XONFO\my works\day1\obj\Debug\net8.0\Task 1 — Console Calculator with Menu.dll
+E:\XONFO\my works\day1\obj\Debug\net8.0\refint\Task 1 — Console Calculator with Menu.dll
+E:\XONFO\my works\day1\obj\Debug\net8.0\Task 1 — Console Calculator with Menu.pdb
+E:\XONFO\my works\day1\obj\Debug\net8.0\Task 1 — Console Calculator with Menu.genruntimeconfig.cache
+E:\XONFO\my works\day1\obj\Debug\net8.0\ref\Task 1 — Console Calculator with Menu.dll
