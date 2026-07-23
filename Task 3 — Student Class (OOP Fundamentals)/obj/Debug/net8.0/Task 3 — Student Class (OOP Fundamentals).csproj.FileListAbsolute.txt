@@ -1,0 +1,14 @@
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\obj\Debug\net8.0\Task 3 — Student Class (OOP Fundamentals).GeneratedMSBuildEditorConfig.editorconfig
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\obj\Debug\net8.0\Task 3 — Student Class (OOP Fundamentals).AssemblyInfoInputs.cache
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\obj\Debug\net8.0\Task 3 — Student Class (OOP Fundamentals).AssemblyInfo.cs
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\obj\Debug\net8.0\Task 3 — Student Class (OOP Fundamentals).csproj.CoreCompileInputs.cache
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\bin\Debug\net8.0\Task 3 — Student Class (OOP Fundamentals).exe
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\bin\Debug\net8.0\Task 3 — Student Class (OOP Fundamentals).deps.json
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\bin\Debug\net8.0\Task 3 — Student Class (OOP Fundamentals).runtimeconfig.json
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\bin\Debug\net8.0\Task 3 — Student Class (OOP Fundamentals).dll
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\bin\Debug\net8.0\Task 3 — Student Class (OOP Fundamentals).pdb
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\obj\Debug\net8.0\Task 3 — Student Class (OOP Fundamentals).dll
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\obj\Debug\net8.0\refint\Task 3 — Student Class (OOP Fundamentals).dll
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\obj\Debug\net8.0\Task 3 — Student Class (OOP Fundamentals).pdb
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\obj\Debug\net8.0\Task 3 — Student Class (OOP Fundamentals).genruntimeconfig.cache
+E:\XONFO\my works\Task 3 — Student Class (OOP Fundamentals)\obj\Debug\net8.0\ref\Task 3 — Student Class (OOP Fundamentals).dll

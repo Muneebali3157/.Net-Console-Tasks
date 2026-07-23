@@ -1,0 +1,14 @@
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\bin\Debug\net8.0\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.exe
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\bin\Debug\net8.0\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.deps.json
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\bin\Debug\net8.0\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.runtimeconfig.json
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\bin\Debug\net8.0\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.dll
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\bin\Debug\net8.0\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.pdb
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\obj\Debug\net8.0\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\obj\Debug\net8.0\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.AssemblyInfoInputs.cache
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\obj\Debug\net8.0\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.AssemblyInfo.cs
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\obj\Debug\net8.0\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.csproj.CoreCompileInputs.cache
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\obj\Debug\net8.0\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.dll
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\obj\Debug\net8.0\refint\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.dll
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\obj\Debug\net8.0\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.pdb
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\obj\Debug\net8.0\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.genruntimeconfig.cache
+E:\XONFO\my works\Task 4 — Inheritance -Person -Employee -Student-Hierarchy\obj\Debug\net8.0\ref\Task 4 — Inheritance -Person -Employee -Student-Hierarchy.dll

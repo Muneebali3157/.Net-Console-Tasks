@@ -1,0 +1,14 @@
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\bin\Debug\net8.0\Task 5 — Mini Project- Employee Payroll Console App.exe
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\bin\Debug\net8.0\Task 5 — Mini Project- Employee Payroll Console App.deps.json
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\bin\Debug\net8.0\Task 5 — Mini Project- Employee Payroll Console App.runtimeconfig.json
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\bin\Debug\net8.0\Task 5 — Mini Project- Employee Payroll Console App.dll
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\bin\Debug\net8.0\Task 5 — Mini Project- Employee Payroll Console App.pdb
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\obj\Debug\net8.0\Task 5 — Mini Project- Employee Payroll Console App.GeneratedMSBuildEditorConfig.editorconfig
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\obj\Debug\net8.0\Task 5 — Mini Project- Employee Payroll Console App.AssemblyInfoInputs.cache
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\obj\Debug\net8.0\Task 5 — Mini Project- Employee Payroll Console App.AssemblyInfo.cs
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\obj\Debug\net8.0\Task 5 — Mini Project- Employee Payroll Console App.csproj.CoreCompileInputs.cache
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\obj\Debug\net8.0\Task 5 — Mini Project- Employee Payroll Console App.dll
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\obj\Debug\net8.0\refint\Task 5 — Mini Project- Employee Payroll Console App.dll
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\obj\Debug\net8.0\Task 5 — Mini Project- Employee Payroll Console App.pdb
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\obj\Debug\net8.0\Task 5 — Mini Project- Employee Payroll Console App.genruntimeconfig.cache
+E:\XONFO\my works\Task 5 — Mini Project- Employee Payroll Console App\obj\Debug\net8.0\ref\Task 5 — Mini Project- Employee Payroll Console App.dll

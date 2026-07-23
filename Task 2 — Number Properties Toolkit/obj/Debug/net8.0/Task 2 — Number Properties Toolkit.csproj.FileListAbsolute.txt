@@ -1,0 +1,14 @@
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\obj\Debug\net8.0\Task 2 — Number Properties Toolkit.GeneratedMSBuildEditorConfig.editorconfig
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\obj\Debug\net8.0\Task 2 — Number Properties Toolkit.AssemblyInfoInputs.cache
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\obj\Debug\net8.0\Task 2 — Number Properties Toolkit.AssemblyInfo.cs
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\obj\Debug\net8.0\Task 2 — Number Properties Toolkit.csproj.CoreCompileInputs.cache
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\bin\Debug\net8.0\Task 2 — Number Properties Toolkit.exe
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\bin\Debug\net8.0\Task 2 — Number Properties Toolkit.deps.json
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\bin\Debug\net8.0\Task 2 — Number Properties Toolkit.runtimeconfig.json
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\bin\Debug\net8.0\Task 2 — Number Properties Toolkit.dll
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\bin\Debug\net8.0\Task 2 — Number Properties Toolkit.pdb
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\obj\Debug\net8.0\Task 2 — Number Properties Toolkit.dll
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\obj\Debug\net8.0\refint\Task 2 — Number Properties Toolkit.dll
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\obj\Debug\net8.0\Task 2 — Number Properties Toolkit.pdb
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\obj\Debug\net8.0\Task 2 — Number Properties Toolkit.genruntimeconfig.cache
+E:\XONFO\my works\Task 2 — Number Properties Toolkit\obj\Debug\net8.0\ref\Task 2 — Number Properties Toolkit.dll
